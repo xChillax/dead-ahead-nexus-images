@@ -6,5 +6,4 @@ Resizing done using:
 - https://redketchup.io/bulk-image-resizer
  - Resize by percentage
  - Scale 1000 (x10)
- - Scale 10000 (x100)
  - Filter Nearest Neighbor
